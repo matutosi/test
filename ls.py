@@ -62,7 +62,7 @@ for l in os.listdir():
 st.write("\ntree . -------------------")
 tree(".")
 
-st.write("\ntree /mount/src/comptea/-------------------")
-tree("/mount/src/comptea/")
+st.write("\ntree /mount-------------------")
+tree("/mount")
 
 st.write("finished")
